@@ -1,0 +1,3 @@
+name: waxcoder-t2
+main: com.tenjava.entries.waxcoder.t2.TenJava
+version: '${project.version}'
